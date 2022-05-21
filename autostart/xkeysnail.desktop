@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=xkeysnail
+Comment=remap keyboard input
+Exec=sudo /home/ben/workspace/xkeysnail-macos-keymap/run
+Type=Application
