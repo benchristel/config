@@ -1,16 +1,28 @@
 [desktop-monitor-0]
 nemo-icon-view-keep-aligned=true
-nemo-icon-view-auto-layout=true
-nemo-icon-view-layout-timestamp=1653005397
+nemo-icon-view-auto-layout=false
+nemo-icon-view-layout-timestamp=1653235765
 
 [home]
-nemo-icon-position-timestamp=1653005956
-nemo-icon-position=85,114
+nemo-icon-position-timestamp=1653235765
+nemo-icon-position=91,143
 monitor=0
 icon-scale=1
 
 [computer]
-nemo-icon-position-timestamp=1653005956
-nemo-icon-position=85,14
+nemo-icon-position-timestamp=1653235765
+nemo-icon-position=91,43
 monitor=0
 icon-scale=1
+
+[trash]
+nemo-icon-position=91,243
+monitor=0
+icon-scale=1
+nemo-icon-position-timestamp=1653235787
+
+[network]
+nemo-icon-position=91,343
+monitor=0
+icon-scale=1
+nemo-icon-position-timestamp=1653235795
